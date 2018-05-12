@@ -1,0 +1,38 @@
+_repo: Holidays--amp--Happy-Days_37216
+_version: 0.1.0
+alternative_title: Holidays and Happy-Days
+contributor:
+  illustrator:
+    agent_name: Mason, E. Florence
+    gutenberg_agent_id: '38708'
+    url: http://www.gutenberg.org/2009/agents/38708
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hendry, Hamish
+    gutenberg_agent_id: '38707'
+    url: http://www.gutenberg.org/2009/agents/38707
+description: ''
+gutenberg_issued: '2011-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37216'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Holidays -- Great Britain -- Juvenile literature'
+- !lcc 'DA'
+- !lcsh 'Fasts and feasts -- Great Britain -- Juvenile literature'
+tableOfContents: New Year's Day -- Twelfth Day -- St. Valentine's Day -- Pancake Tuesday
+  -- St. David's Day -- St. Patrick's Day -- All Fools' Day -- Palm Sunday -- Maundy
+  Thursday -- Good Friday -- Easter Sunday -- St. George's Day -- May Day -- Royal
+  Oak Day -- Midsummer's Eve -- St. Swithin's Day -- Michaelmas Day -- All Hallow's
+  Eve -- Guy Fawkes' Day -- Lord Mayor's Day -- St. Andrew's Day -- Christmas Eve
+  -- Christmas Day -- Boxing Day.
+title: Holidays & Happy-Days
+url: http://www.gutenberg.org/ebooks/37216
